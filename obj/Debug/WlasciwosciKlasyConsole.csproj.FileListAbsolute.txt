@@ -1,0 +1,6 @@
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\WlasciwosciKlasyConsole\WlasciwosciKlasyConsole\bin\Debug\WlasciwosciKlasyConsole.exe.config
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\WlasciwosciKlasyConsole\WlasciwosciKlasyConsole\obj\Debug\WlasciwosciKlasyConsole.csprojResolveAssemblyReference.cache
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\WlasciwosciKlasyConsole\WlasciwosciKlasyConsole\bin\Debug\WlasciwosciKlasyConsole.exe
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\WlasciwosciKlasyConsole\WlasciwosciKlasyConsole\bin\Debug\WlasciwosciKlasyConsole.pdb
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\WlasciwosciKlasyConsole\WlasciwosciKlasyConsole\obj\Debug\WlasciwosciKlasyConsole.exe
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\WlasciwosciKlasyConsole\WlasciwosciKlasyConsole\obj\Debug\WlasciwosciKlasyConsole.pdb
